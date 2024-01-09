@@ -3,3 +3,18 @@ Multiple disease prediction using machine learning involves utilizing various al
 
 # Dataset
 Three types of Diseases and their respective Datasets were used sourced from Kaggle.
+- Heart Disease Dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+- Diabetes Disease Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+- Parkinsons Disease Dataset: https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set
+
+# Libraries Used
+- Pandas
+- scikit-learn
+- NumPy
+- Matplotlib
+- Streamlit
+
+# Algorithms Used
+- Logistic Regression
+- K-Nearest Neighbours
+- Decision Trees
